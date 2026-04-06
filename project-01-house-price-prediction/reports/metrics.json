@@ -1,0 +1,5 @@
+{
+  "model_path": "models/rf_pipeline.joblib",
+  "mae": 0.3264591063388246,
+  "rmse": 0.5034852619333121
+}
