@@ -19,3 +19,7 @@ The highest-error entities likely have:
 
 ## Forecast Plot
 ![Forecast](reports/figures/forecast_plot.png)
+
+## Note
+
+The trained model file is excluded from this repository due to GitHub file size limits but and the missing one can be recreated by rerunning training locally.
