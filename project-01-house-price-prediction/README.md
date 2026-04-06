@@ -14,6 +14,7 @@ This project uses scikit-learn's `fetch_california_housing` dataset.
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
+``` 
 
 ## Note
 
